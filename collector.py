@@ -82,3 +82,4 @@ finally:
 
     trader.disconnect()
     print("Disconnected from SHIFT")
+    
